@@ -1,0 +1,48 @@
+.navbar-brand{
+    font-size: 30px;
+    margin-right: 30px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 10px;
+}
+
+.nav-item{
+    font-size: 20px;
+    padding-right: 15px;
+}
+
+
+.display-1{
+    text-align: center;
+}
+
+.container{
+    margin-top: 20px;
+    width: 100%;
+}
+
+.lead{
+    text-align: left;
+}
+
+i{
+    font-size: 100px;
+}
+
+.hr{
+    font-size: 40px;
+    color: red;
+    display: flex;
+    background-color: black;
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.hr:hover{
+    color: black;
+    background-color: red;
+}
